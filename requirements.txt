@@ -1,2 +1,1 @@
-!python3 -m pip install matplotlib
 matplotlib==3.4.1
